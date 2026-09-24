@@ -1,0 +1,1 @@
+ClassX is an AI-powered academic management platform for engineering colleges and high schools, designed to automate assignments, assessments, AI-assisted evaluation, attendance, timetables, notifications, analytics, and student rewards while maintaining secure role-based and college-level data isolation.
